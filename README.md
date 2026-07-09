@@ -1,7 +1,7 @@
 # Projeto: Testes de API Rest com Postman e Validação de Back-end (Sprint 4)
 
 ## 📌 Sobre o Projeto
-Este projeto prático foi desenvolvido durante o bootcamp de Engenharia de QA da TripleTen Brasil. O foco central foi realizar a garantia de qualidade do back-end do sistema "Urban.Grocers", validando endpoints, processamento de dados e regras de negócio através de requisições HTTP utilizando o Postman. Todas as falhas críticas encontradas foram integradas e reportadas no Jira.
+Este projeto prático foi desenvolvido durante o bootcamp de Analista de QA da TripleTen Brasil. O foco central foi realizar a garantia de qualidade do back-end do sistema "Urban.Grocers", validando end points, processamento de dados e regras de negócio através de requisições HTTP utilizando o Postman. Todas as falhas críticas encontradas foram integradas e reportadas no Jira.
 
 ## 🛠️ Escopo Técnico e Atividades Executadas
 * **Análise de Documentação Técnica (ApiDoc):** Interpretação de especificações e requisitos de back-end para mapear os endpoints `/api/v1/kits/{id}/products` e `/order-and-go/v1/delivery`.
